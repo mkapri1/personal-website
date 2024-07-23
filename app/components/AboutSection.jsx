@@ -62,9 +62,9 @@ const AboutSection = () => {
             of women in tech, I served as the President of Girls Who Code, 
             inspiring and mentoring young women looking to pursue careers in technology.
             I am committed to creating a more diverse and inclusive tech industry and
-              am excited to continue making a positive impact. 
-              I am always open to new opportunities and learning experiences 
-              so don't hesitate to reach out!.
+            am excited to continue making a positive impact. 
+            I am always open to new opportunities and learning experiences 
+            so don't hesitate to reach out!.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
